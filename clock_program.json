@@ -1,0 +1,24 @@
+[
+  {
+    "ip": "192.9.200.1",
+    "number": "01",
+    "entries": [
+      {
+        "value": "A",
+        "description": "Entrada Normal"
+      },
+      {
+        "value": "B",
+        "description": "Salida Normal"
+      },
+      {
+        "value": "C",
+        "description": "Entrada al Descanso"
+      },
+      {
+        "value": "D",
+        "description": "Salida al Descanso"
+      }
+    ]
+  }
+]
