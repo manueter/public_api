@@ -1,0 +1,20 @@
+[
+  {
+    "uuid": "f7d5c8a9-82f4-4d24-b6de-07e3d90fda23",
+    "type": "note",
+    "value": "This is a sample note.",
+    "date": "2025-01-10",
+    "time": "14:30:00",
+    "createdAt": "2025-01-10T14:30:00Z",
+    "username": "user"
+  },
+  {
+    "uuid": "b8a3e8c7-3b56-467a-ae8b-3e09f7d67d60",
+    "type": "note",
+    "value": "Comentario",
+    "date": "2025-01-09",
+    "time": "10:15:00",
+    "createdAt": "2025-01-09T10:15:00Z",
+    "username": "user"
+  }
+]
